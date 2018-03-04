@@ -1,0 +1,5 @@
+Домашнее задание от 09.02.2018
+
+Самостоятельно порешать задачи
+
+https://github.com/oleg-shumar/php-academy.kiev.ua/tree/master/php_basics_tasks

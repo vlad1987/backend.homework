@@ -1,0 +1,12 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+tr .color1 td  {
+  background-color: rand(0,255)
+}
+
