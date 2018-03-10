@@ -1,0 +1,5 @@
+Домашнее задание от 16.02.2018
+
+Самостоятельно порешать задачи
+
+https://github.com/oleg-shumar/php-academy.kiev.ua/tree/master/arrays_loops_tasks
